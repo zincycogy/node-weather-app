@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "nodejs weather app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "open-weather",
+    "external-api",
+    "api",
+    "weather-app"
+  ],
+  "author": "zincycog",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "request": "^2.88.2"
+  }
+}
